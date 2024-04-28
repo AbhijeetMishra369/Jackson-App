@@ -1,0 +1,11 @@
+{
+	"id": 111,
+	"name": "sonu",
+	"email": "abhijeet173@gmail.com",
+	"phno": 7978631865,
+	"addr": {
+		"city": "Kendrapara",
+		"state": "odisha",
+		"country": "india"
+	}
+}
